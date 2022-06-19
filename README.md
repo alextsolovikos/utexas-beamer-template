@@ -1,4 +1,4 @@
-# A Beamer Template for the University of Texas at Austin
+# A Beamer template for the University of Texas at Austin
 
 ![Slide 1](figs/presentation-1.png)
 ![Slide 2](figs/presentation-2.png)
